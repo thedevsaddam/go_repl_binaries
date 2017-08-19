@@ -8,10 +8,10 @@ GO REPL is a simple application promising to write/compile/run code in terminal,
 
 | OS      	| x86                                                                                      	| x86_64                                                                                      	|
 |---------	|------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|
-| Mac     	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/mac_x86.zip)     	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/mac_x86_64.zip)     	|
-| Linux   	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/linux_x86.zip)   	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/linux_x86_64.zip)   	|
-| FreeBSD 	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/freebsd_x86.zip) 	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/freebsd_x86_64.zip) 	|
-| Windows 	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/windows_x86.zip) 	| [Download](https://github.com/thedevsaddam/go_repel_binaries/blob/master/v1/windows_x86_64.zip) 	|
+| Mac     	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/mac_x86.zip)     	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/mac_x86_64.zip)     	|
+| Linux   	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/linux_x86.zip)   	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/linux_x86_64.zip)   	|
+| FreeBSD 	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/freebsd_x86.zip) 	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/freebsd_x86_64.zip) 	|
+| Windows 	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/windows_x86.zip) 	| [Download](https://github.com/thedevsaddam/go_repl_binaries/blob/master/v1/windows_x86_64.zip) 	|
 
 ### Installation
 On MacOS/Linux download the binary file and copy the file to `/user/local/bin/` and set permission to executable
